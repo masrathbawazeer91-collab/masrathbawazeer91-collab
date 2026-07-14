@@ -1,4 +1,4 @@
-# Hi 👋, I'm Masrath Bawazeer
+# Hi 👋, I'm Masrath
 
 🎓 B.Tech Computer Science Engineering Graduate
 
