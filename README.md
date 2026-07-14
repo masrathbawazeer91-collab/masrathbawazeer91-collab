@@ -28,3 +28,6 @@
 
 - LinkedIn: *(Add your LinkedIn profile link here)*
 - GitHub: https://github.com/masrathbawazeer91-collab
+## 📊 GitHub Stats
+
+![Masrath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=masrathbawazeer91-collab&show_icons=true&theme=tokyonight)
