@@ -16,6 +16,13 @@
 - NumPy
 - Machine Learning
 - Git & GitHub
+- ## 🌱 Currently Learning
+
+- Advanced SQL
+- Power BI Dashboard Design
+- Python for Data Analytics
+- Machine Learning
+- Reinforcement Learning
 - ## 💻 Technologies & Tools
 
 <p align="left">
