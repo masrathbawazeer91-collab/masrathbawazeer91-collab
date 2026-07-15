@@ -39,3 +39,6 @@
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=masrathbawazeer91-collab&theme=tokyonight)
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masrathbawazeer91-collab&layout=compact&theme=tokyonight)
