@@ -16,6 +16,11 @@
 - NumPy
 - Machine Learning
 - Git & GitHub
+- ## 💻 Technologies & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,tensorflow" />
+</p>
 
 ## 📂 Featured Projects
 
