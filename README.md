@@ -36,3 +36,6 @@
 ## 📊 GitHub Stats
 
 ![Masrath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=masrathbawazeer91-collab&show_icons=true&theme=tokyonight)
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=masrathbawazeer91-collab&theme=tokyonight)
